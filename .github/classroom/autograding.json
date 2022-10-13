@@ -1,0 +1,172 @@
+{
+  "tests": [
+    {
+      "name": "Username input field is present",
+      "setup": "",
+      "run": "flutter test --name='Username input-field is present'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Email input field is present",
+      "setup": "",
+      "run": "flutter test --name='Email input-field is present'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Password input field is present",
+      "setup": "",
+      "run": "flutter test --name='Password input-field is present'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Submission button is present",
+      "setup": "",
+      "run": "flutter test --name='Submission button is present'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Submission button has correct text",
+      "setup": "",
+      "run": "flutter test --name='Submission button has correct text'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Username has correct label",
+      "setup": "",
+      "run": "flutter test --name='Username has correct label'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Email has correct label",
+      "setup": "",
+      "run": "flutter test --name='Email has correct label'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Password has correct label",
+      "setup": "",
+      "run": "flutter test --name='Password has correct label'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Email has correct keyboard",
+      "setup": "",
+      "run": "flutter test --name='Email has correct keyboard'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Password has hidden characters",
+      "setup": "",
+      "run": "flutter test --name='Password has hidden characters'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Validation turned off by default",
+      "setup": "",
+      "run": "flutter test --name='Validation turned off by default'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Submission disabled on error",
+      "setup": "",
+      "run": "flutter test --name='Submission disabled on error'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Username error - empty",
+      "setup": "",
+      "run": "flutter test --name='Username error - empty'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Username error - too short",
+      "setup": "",
+      "run": "flutter test --name='Username error - too short'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Username error - too long",
+      "setup": "",
+      "run": "flutter test --name='Username error - too long'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Username error - invalid characters",
+      "setup": "",
+      "run": "flutter test --name='Username error - invalid characters'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "No error when username is valid",
+      "setup": "",
+      "run": "flutter test --name='No error when username is valid'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Email error - invalid format",
+      "setup": "",
+      "run": "flutter test --name='Email error - invalid format'",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Password error",
+      "setup": "",
+      "run": "flutter test --name='Password error'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Form enabled again when all values are valid",
+      "setup": "",
+      "run": "flutter test --name='Form enabled again when all values are valid'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "No spinner by default",
+      "setup": "",
+      "run": "flutter test --name='No spinner by default'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Spinner shown when form is submitted",
+      "setup": "",
+      "run": "flutter test --name='Spinner shown when form is submitted'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Button removed when form is submitted",
+      "setup": "",
+      "run": "flutter test --name='Button removed when form is submitted'",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Inputs disabled when form is submitted",
+      "setup": "",
+      "run": "flutter test --name='Inputs disabled when form is submitted'",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
